@@ -1044,7 +1044,7 @@ class SimpleTelegramBot:
 # Entry point
 # ----------------------------------------------------------------------
 if __name__ == "__main__":
-    bot_token = os.getenv("BOT_TOKEN")      # <<< SET THIS IN YOUR ENVIRONMENT
+    bot_token = "8216191734:AAGhoVONLsQzpMGh2FqphCvv2F9qBYN1Dwg"    # <<< SET THIS IN YOUR ENVIRONMENT
     if not bot_token:
         console.print("[red]Error: export BOT_TOKEN=your:token before running[/red]")
         sys.exit(1)
@@ -1054,4 +1054,5 @@ if __name__ == "__main__":
         bot.start()
     except KeyboardInterrupt:
         console.print("[yellow]Bot stopped (Ctrl+C)[/yellow]")
+
         logger.info("Shutdown")
