@@ -1,0 +1,5 @@
+requests
+rich
+user_agent
+pyTelegramBotAPI
+flask
