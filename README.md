@@ -1,5 +1,7 @@
 # InstaRepTool - Installation & Guide
 
+[![Telegram Branch](https://img.shields.io/badge/Go%20to-Telegram%20Branch-blue?style=for-the-badge)](https://github.com/xagergaming/InstaRepTool/tree/tg)
+
 ## Installation
 
 Run the following one‑line command on **Termux**, **Debian**, or any
