@@ -1,5 +1,8 @@
 # InstaRepTool TG - Installation & Guide
 
+[![Main Branch](https://img.shields.io/badge/Go%20to-Main%20Branch-blue?style=for-the-badge)](https://github.com/xagergaming/InstaRepTool)
+
+
 ## Installation
 
 Run the following one‑line command on **Termux**, **Debian**, or any
