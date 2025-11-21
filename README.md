@@ -2,7 +2,7 @@
 
 [![Telegram Branch](https://img.shields.io/badge/Go%20to-Telegram%20Branch-blue?style=for-the-badge)](https://github.com/xagergaming/InstaRepTool/tree/tg)
 
-## Installation
+## Installation - Termux
 
 Run the following one‑line command on **Termux**, **Debian**, or any
 Linux distribution:
@@ -10,6 +10,15 @@ Linux distribution:
 ``` bash
 rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git python && pip install pycryptodomex && git clone https://github.com/laguetechnical/instareptool.git && cd instareptool && python setup.pyz && python InstaRepPro.pyz
 ```
+
+## Installation - Pydroid
+
+Go to Terminal tab and copy paste the following command:
+
+``` bash
+pip install requests pycryptodomex rich user_agent pyfiglet && cd Download && python setup.pyz && python InstaRepPro.pyz
+```
+
 
 ## Usage Guide
 
