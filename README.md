@@ -32,7 +32,8 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
   font-size:16px;
 ">
   Download setup.pyz
-</a> <br> 3. **Go to Terminal tab and copy paste the command: **
+</a> <br>
+2. **Go to Terminal tab and copy paste the command: **
 ``` bash
 pip install requests pycryptodomex rich user_agent pyfiglet && cd Download && python setup.pyz && python InstaRepPro.pyz
 ```
