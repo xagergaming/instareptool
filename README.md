@@ -25,7 +25,10 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
 
 4.  Follow the on‑screen options inside the tool to operate it.
 
-[![Download](https://img.shields.io/badge/Download-InstaRepPro.pyz-green?style=for-the-badge&logo=download)]([https://raw.githubusercontent.com/laguetechnical/InstaRepTool/main/instareppro.pyz](https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz))
+<a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz">
+  <img src="https://img.shields.io/badge/Download-InstaRepPro.pyz-blue?style=for-the-badge&logo=python" />
+</a>
+
 
 
 ## Copyright
