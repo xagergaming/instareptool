@@ -12,9 +12,7 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
 ```
 
 ## Installation - Pydroid
-1. **Download setup.pyz and InstaRepPro.pyz from below👇 **
-<br>
-<a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz" download style="
+1. **Download setup.pyz and InstaRepPro.pyz from below👇 ** <br> <a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz" download style="
   background:#4CAF50;
   color:white;
   padding:12px 20px;
@@ -24,9 +22,7 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
   font-size:16px;
 ">
   Download InstaRepPro.pyz
-</a>
-<br>
-<a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/setup.pyz" download style="
+</a> <br> <a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/setup.pyz" download style="
   background:#4CAF50;
   color:white;
   padding:12px 20px;
@@ -36,9 +32,7 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
   font-size:16px;
 ">
   Download setup.pyz
-</a>
-
-3. **Go to Terminal tab and copy paste the command: **
+</a> <br> 3. **Go to Terminal tab and copy paste the command: **
 ``` bash
 pip install requests pycryptodomex rich user_agent pyfiglet && cd Download && python setup.pyz && python InstaRepPro.pyz
 ```
