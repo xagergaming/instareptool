@@ -20,7 +20,7 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
 3.  After setup, the tool **automatically starts** using:
 
     ``` bash
-    python InstaRepPro.py
+    python InstaRepPro.pyz
     ```
 
 4.  Follow the on‑screen options inside the tool to operate it.
