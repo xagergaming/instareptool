@@ -12,9 +12,31 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
 ```
 
 ## Installation - Pydroid
+1. **Download setup.pyz and InstaRepPro.pyz from below👇 **
+<a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz" download style="
+  background:#4CAF50;
+  color:white;
+  padding:12px 20px;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:bold;
+  font-size:16px;
+">
+  Download InstaRepPro.pyz
+</a>
+<a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/setup.pyz" download style="
+  background:#4CAF50;
+  color:white;
+  padding:12px 20px;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:bold;
+  font-size:16px;
+">
+  Download setup.pyz
+</a>
 
-Go to Terminal tab and copy paste the following command:
-
+2. **Go to Terminal tab and copy paste the command: **
 ``` bash
 pip install requests pycryptodomex rich user_agent pyfiglet && cd Download && python setup.pyz && python InstaRepPro.pyz
 ```
@@ -34,17 +56,7 @@ pip install requests pycryptodomex rich user_agent pyfiglet && cd Download && py
 
 4.  Follow the on‑screen options inside the tool to operate it.
 
-<a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz" download style="
-  background:#4CAF50;
-  color:white;
-  padding:12px 20px;
-  text-decoration:none;
-  border-radius:8px;
-  font-weight:bold;
-  font-size:16px;
-">
-  Download InstaRepPro.pyz
-</a>
+
 
 
 
