@@ -10,6 +10,16 @@ Linux distribution:
 ``` bash
 rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git python && pip install pycryptodomex && git clone https://github.com/laguetechnical/instareptool.git && cd instareptool && python setup.pyz && python InstaRepPro.pyz
 ```
+## Usage for Termux
+1.  **Go to directory** where tool is stored such as '''cd instareptool''' .
+2.  You can run tool using:
+
+    ``` bash
+    python InstaRepPro.pyz
+    ```
+
+3.  Follow the on‑screen options inside the tool to operate it.
+
 
 ## Installation - Pydroid
 1. **Download setup.pyz and InstaRepPro.pyz** from below👇 <br> <a href="https://github.com/laguetechnical/InstaRepTool/raw/refs/heads/main/InstaRepPro.pyz" download style="
@@ -37,23 +47,15 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
 ``` bash
 pip install requests pycryptodomex rich user_agent pyfiglet && cd Download && python setup.pyz && python InstaRepPro.pyz
 ```
+## Usage for Pydroid
 
-
-## Usage Guide
-
-1.  **Clone the tool** using the installation command.\
-
-2.  **Setup script will auto-install dependencies**.\
-
-3.  After setup, the tool **automatically starts** using:
+1.  You can **Start tool anytime** by this command in **terminal tab** : (copy/paste this command)
 
     ``` bash
-    python InstaRepPro.pyz
+    cd Download && python InstaRepPro.pyz
     ```
 
-4.  Follow the on‑screen options inside the tool to operate it.
-
-
+2.  Follow the on‑screen options inside the tool to operate it.
 
 
 
