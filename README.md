@@ -25,6 +25,8 @@ rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git pyt
 
 4.  Follow the on‑screen options inside the tool to operate it.
 
+[![ Get it on SERVICE](blob:https://github.com/82352434-ba32-4974-9b7f-9db67879ff96)](https://example.com/...)
+
 ## Copyright
 
-© 2025 InstaRepTool. All rights reserved.
+© 2025 LAGUETECHNICAL. All rights reserved.
