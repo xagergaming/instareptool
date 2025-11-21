@@ -8,7 +8,7 @@ Run the following one‑line command on **Termux**, **Debian**, or any
 Linux distribution:
 
 ``` bash
-rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git python && git clone https://github.com/laguetechnical/instareptool.git && cd instareptool && python setup.pyz && python InstaRepPro.pyz
+rm -rf instareptool && apt update -y && apt upgrade -y && apt install -y git python && pip install pycryptodomex && git clone https://github.com/laguetechnical/instareptool.git && cd instareptool && python setup.pyz && python InstaRepPro.pyz
 ```
 
 ## Usage Guide
